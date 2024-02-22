@@ -1,0 +1,38 @@
+1. write functions for a full burger meal: 
+
+function makeBurger (cheese , onions) {
+Add bun
+Add cheese
+Add onions
+Add burger_patty
+Add bun
+}
+
+function makeSideMeal (chicken , bread_crumbs , salt) {
+Put chicken in yolk
+Put chicken in bread_crumbs
+Add salt
+Fry chicken
+}
+
+function makeSoftDrink (pepsi , regular) {
+Add regular_size_cardboard_cup
+Fill in water_450ml
+Fill in pepsi_syrup_50ml
+Add regular_size_cardboard_cup_lid
+}
+
+------
+2. create a program/recipe for a fruit salad,  using examples of all 3 operator groups
+
+function make_fruit_salad ( ingridient0 , ingridient1 , ingridient2 )
+ingridients:
+( condensed milk = ingridient0 )
+( pineapples = ingridient1 )
+( strawberries = ingridient2 )
+{
+fruit_salad = ingridient0 + ingridient1 + ingridient2
+if ingridient1 < ingridient2 make ingridient2 = ingridient1
+if ingridient1 > ingridient2 make ingridient1 = ingridient2
+}
+
